@@ -114,7 +114,7 @@ Untuk mencapai *goals* di atas, dilakukan:
 
 ![EDA Price](https://raw.githubusercontent.com/unyftpte/figure/main/eda_price.png)
 
-![EDA Volume](https://raw.githubusercontent.com/unyftpte/volume_plot.pngg)
+![EDA Volume](https://raw.githubusercontent.com/unyftpte/figure/main/eda_volume.png)
 
 ![EDA Correlation](https://raw.githubusercontent.com/unyftpte/figure/main/eda_corr.png)
 
